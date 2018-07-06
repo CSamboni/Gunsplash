@@ -6,7 +6,7 @@ Colección de imágenes desde Unsplash.
 
 Mostrar fotografías de Unsplash estilizando.
 
-# Implementar Firebase
+## 2 Implementar Firebase
 
 Mostrar información en cards.
 
