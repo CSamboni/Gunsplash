@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import PersonList from './component/person';
 import './firebase/firebase';
+import Gallery from './component/gallery';
 
 
 class App extends Component {
@@ -14,7 +14,7 @@ class App extends Component {
   }
   render() {
     return (
-      <PersonList />
+      <Gallery />
     );
   }
 }
