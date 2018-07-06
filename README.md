@@ -1,12 +1,10 @@
-# Implementado Unsplash API
 
-Colección de imágenes desde Unsplash.
+## 1 Colección de Fotografías
 
-## 1 colección de Fotografías
+### Implementado Unsplash API
+Mostrar fotografías de Unsplash estilizando. Colección de imágenes desde Unsplash.
 
-Mostrar fotografías de Unsplash estilizando.
-
-# Implementar Firebase
+## 2 Implementar Firebase
 
 Mostrar información en cards.
 
